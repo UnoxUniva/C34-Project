@@ -50,7 +50,7 @@ function draw() {
   box2.display()
   box3.display()
   box4.display()
-  box5.display()
+//   box5.display()
   box6.display()
   box7.display()
   box8.display()
@@ -62,7 +62,7 @@ function draw() {
   
   ball.display()
   Monster1.display()
-  rope.display()
+//   rope.display()
 
 }
 function mouseDragged(){
